@@ -19,8 +19,8 @@ dependencies:
   flutter_keyboard_visibility: ^6.0.0
   meta: ">=1.0.0 <2.0.0"
   numberpicker: ^2.1.2
-  pointer_interceptor: ^0.10.1
-  visibility_detector: ^0.4.0+2
+  pointer_interceptor: 0.9.3+7
+  visibility_detector: 0.4.0+2
 
 dev_dependencies:
   # plugin to help maintain effective Flutter standards
